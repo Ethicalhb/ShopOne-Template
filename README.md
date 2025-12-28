@@ -1,12 +1,12 @@
 # ShopOne Template 🛒
 
-ShopOne Template is a clean, fully responsive one-page eCommerce website built using **pure HTML, CSS, and JavaScript**.
+ShopOne Template is a clean, fully responsive one-page eCommerce website.
 
-It is designed as a **frontend template**, focusing on layout structure, usability, and visual clarity — without APIs, frameworks, or backend complexity.
+It is designed as a frontend template, focusing on layout structure, usability, and visual clarity — without APIs, frameworks, or backend complexity.
 
----
 
-## ✨ Key Features
+
+✨ Key Features
 
 - One-page eCommerce layout
 - Sidebar-based category navigation
